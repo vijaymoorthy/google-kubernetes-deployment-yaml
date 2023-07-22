@@ -5,7 +5,8 @@ Create new cluster
 ![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/f8b21619-14d5-4cf4-900f-07e2493af34b)
 
 # Connecting to GC cloud shell
-![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/fff03b6e-b37b-40e0-abc3-7c4e72282e8b)
+![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/8a87839a-aac4-4651-8d46-c236c40d721f)
+
 
 # Connecting to cluser using gc cloud 
 
