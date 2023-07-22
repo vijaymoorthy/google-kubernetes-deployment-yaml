@@ -1,16 +1,11 @@
 # google-kubernetes-deployment-yaml
 GKS deplloyment
 It has been taken from https://www.cloudskillsboost.google/course_sessions/4013538/labs/383188
-Create new cluster
-![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/f8b21619-14d5-4cf4-900f-07e2493af34b)
+
 
 # Connecting to GC cloud shell
 ![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/8a87839a-aac4-4651-8d46-c236c40d721f)
 
-
-# Connecting to cluser using gc cloud 
-
-![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/6b586b65-0451-4480-984e-02104dc36f47)
 # clone the git 
 ![image](https://github.com/vijaymoorthy/google-kubernetes-deployment-yaml/assets/5792365/f9292602-d9ae-4a64-8b51-92fb799697b5)
 
